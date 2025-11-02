@@ -1,0 +1,25 @@
+{
+  "vertices": ["V0", "V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11", "V12", "V13", "V14", "V15", "V16", "V17"],
+  "edges": [
+    {"from": "V0", "to": "V1", "weight": 1.0},
+    {"from": "V1", "to": "V2", "weight": 2.0},
+    {"from": "V2", "to": "V3", "weight": 1.5},
+    {"from": "V3", "to": "V0", "weight": 1.0},
+    {"from": "V1", "to": "V3", "weight": 2.0},
+    {"from": "V2", "to": "V0", "weight": 1.5},
+    {"from": "V4", "to": "V5", "weight": 1.0},
+    {"from": "V5", "to": "V6", "weight": 2.0},
+    {"from": "V6", "to": "V4", "weight": 1.5},
+    {"from": "V0", "to": "V7", "weight": 1.0},
+    {"from": "V3", "to": "V8", "weight": 2.0},
+    {"from": "V4", "to": "V9", "weight": 1.5},
+    {"from": "V7", "to": "V10", "weight": 1.0},
+    {"from": "V8", "to": "V11", "weight": 2.0},
+    {"from": "V9", "to": "V12", "weight": 1.5},
+    {"from": "V10", "to": "V13", "weight": 1.0},
+    {"from": "V11", "to": "V14", "weight": 2.0},
+    {"from": "V12", "to": "V15", "weight": 1.5},
+    {"from": "V13", "to": "V16", "weight": 1.0},
+    {"from": "V14", "to": "V17", "weight": 2.0}
+  ]
+}
